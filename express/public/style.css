@@ -1,0 +1,5 @@
+/* if we want to serve static files we create public folder */
+*{
+   margin: 0;
+   padding: 0;
+}
